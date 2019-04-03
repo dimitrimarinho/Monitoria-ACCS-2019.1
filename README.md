@@ -1,4 +1,6 @@
-# ACCS - Rubisley (MATF34 - ACCS:Programação Competitiva - Computação para Alunos)
+# MATF34 - ACCS:Programação Competitiva - Computação para Alunos
+## ACCS - Rubisley 
+
 
 30/03/2019 - Vector, Ordenação e Struct
 
