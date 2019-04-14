@@ -5,3 +5,12 @@
 30/03/2019 - Vector, Ordenação e Struct
 
 06/04/2019 - Pilha e Fila
+
+## Materiais para estudo (LAB 1)
+
+Slides de aula:
+
+(link 1) https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
+
+(link 2) https://drive.google.com/open?id=1vvAXntqWK0sUVYH8TqZz8EEHHQ1Ho4BW
+
