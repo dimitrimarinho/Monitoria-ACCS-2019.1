@@ -2,6 +2,7 @@
 #include<set>
 using namespace std;
 int main(){
+    
     int N, infectado;
     string nome;
     set<string> contaminados;
@@ -13,4 +14,5 @@ int main(){
     }
     for(set<string> :: iterator it=contaminados.begin(); it != contaminados.end(); it++)
         cout << *it << endl;
+    
 }
