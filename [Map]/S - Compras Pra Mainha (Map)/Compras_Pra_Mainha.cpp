@@ -2,6 +2,7 @@
 #include<map>
 using namespace std;
 int main(){
+    
     int N, P, L, valor_final = 0;
     string produto;
     map<string, int> compras;
@@ -16,4 +17,5 @@ int main(){
         valor_final += compras[produto];
     }
     cout << valor_final << endl;
+    
 }
