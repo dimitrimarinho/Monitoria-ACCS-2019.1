@@ -8,6 +8,10 @@
 
 13/04/2019 - Set
 
+27/04/2019 - Map
+
+04/05/2019 - Busca Binária
+
 
 ## Materiais para estudo (LAB 1)
 
