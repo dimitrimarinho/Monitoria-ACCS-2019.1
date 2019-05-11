@@ -2,6 +2,7 @@
 #include<queue>
 using namespace std;
 int main(){
+    
     int N, G;
     priority_queue<int> best_warrior;
     cin >> N;
@@ -15,4 +16,5 @@ int main(){
         cout << best_warrior.top() << endl;
         best_warrior.pop();
     }
+    
 }
