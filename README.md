@@ -12,6 +12,8 @@
 
 04/05/2019 - Busca Binária
 
+11/05/2019 - Fila de Prioridade
+
 
 ## Materiais para estudo (LAB 1)
 
