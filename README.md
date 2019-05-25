@@ -1,5 +1,5 @@
 ## MATF34 - ACCS: Programação Competitiva - Computação para Alunos
-## ACCS - Rubisley 
+## Datas das aulas de monitoria 
 
 
 30/03/2019 - Vector, Ordenação e Struct
