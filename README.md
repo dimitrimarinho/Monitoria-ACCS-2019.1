@@ -1,9 +1,9 @@
 ## MATF34 - ACCS: Programação Competitiva - Computação para Alunos
 
-A ACCS MATF34 - Programação competitiva para alunos de ensino médio e fundamental tem como objetivo principal ensinar programação para alunos de ensino médio e fundamental. Os pré-requisitos para se matricular nesta ACCS são as disciplinas MATA37 (Introduçã à Lógica de Programação) e MATA57 (Laboratório de Programação I).
+A Ação Curricular em Comunidade e em Sociedade (ACCS) MATF34 - **Programação competitiva para alunos de ensino médio e fundamental** tem como objetivo principal ensinar programação para alunos de ensino médio e fundamental. Os pré-requisitos para se matricular nesta ACCS são as disciplinas MATA37 (Introdução à Lógica de Programação) e MATA57 (Laboratório de Programação I).
 
 
-As aulas são sempre aos sábados entre 14hs e 18hs. A disciplina dá 68 hrs de carga horária optativa. É possível se matricular 2 vezes na disciplina, ou seja, aproveitar 136 hrs de optativa. 
+As aulas são sempre aos sábados entre 14 hrs e 18 hrs. A disciplina dá 68 hrs de carga horária optativa. É possível se matricular 2 vezes na disciplina, ou seja, aproveitar 136 hrs de optativa. 
 
 
 Responsável: Profº Dr. Rubisley de Paula Lemes
