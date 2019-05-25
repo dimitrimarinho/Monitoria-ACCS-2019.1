@@ -14,10 +14,16 @@
 
 11/05/2019 - Fila de Prioridade
 
+18/05/2019 - Programação Dinâmica
+
+25/05/2019 - Programação Dinâmica
 
 ## Materiais para estudo (LAB 1)
 
+
 Slides de aula:
+
+Obs.: Não cobre os assuntos de Programação Dinâmica e Grafos
 
 (link 1) https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
 
