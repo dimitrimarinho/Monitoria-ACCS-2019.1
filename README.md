@@ -23,7 +23,7 @@
 
 Slides de aula:
 
-Obs.: Não cobre os assuntos de Programação Dinâmica e Grafos
+Obs.: Não abrange os assuntos de Programação Dinâmica e Grafos
 
 (link 1) https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
 
