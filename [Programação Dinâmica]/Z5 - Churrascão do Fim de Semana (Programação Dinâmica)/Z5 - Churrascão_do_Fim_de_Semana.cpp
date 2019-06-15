@@ -29,5 +29,5 @@ int main(){
 	}
 
 	cout << prog_din[R_dinheiro] << endl;
-    
+
 }
