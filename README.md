@@ -9,13 +9,13 @@ Os alunos matriculados na disciplina são divididos em 3 grupos. Dois grupos dã
 
 Responsável: Profº Dr. Rubisley de Paula Lemes
 
-## E-mail final de Rubisley: Atribuição das Notas
+### E-mail final de Rubisley: Atribuição das Notas
 
 Cada aluno que não foi do grupo de *casos de teste* tinha que enviar problemas de 3 assuntos, cada assunto desse vale 12,5% da nota na disciplina. O grupo de *casos de teste* ficaram com 4 problemas, portanto 12,5% para cada, além de terem feito os casos de teste para os outros problemas também.
 
 Foram 10 aulas, portanto cada aluno que não seja do grupo de *casos de teste* deveria ter ido em 5 aulas, portanto cada presença em aula vale 12,5% da nota. O pessoal do grupo de *casos de teste* foi para 4 aulas, portanto 12,5% da nota para cada aula, além de terem ajudado a dar as aulas também.
 
-## Datas das aulas de monitoria
+### Datas das aulas de monitoria
 
 
 30/03/2019 - Vector, Ordenação e Struct
@@ -38,7 +38,7 @@ Foram 10 aulas, portanto cada aluno que não seja do grupo de *casos de teste* d
 
 15/06/2019 - Grafos
 
-## Materiais para estudo (LAB 1)
+### Materiais para estudo (LAB 1)
 
 
 Slides de aula:
