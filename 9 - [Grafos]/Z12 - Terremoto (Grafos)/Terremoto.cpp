@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-vector<vector<int>> cidades;
+vector<vector<int>> ciranda;
 vector<bool> visited;
 int count = 0;
 void caminho(int i);
@@ -13,14 +13,14 @@ int main(){
     
     cin >> V >> E >> P;
 
-    cidades.resize(V);
+    ciranda.resize(V);
     visited.resize(V);
 
     for (int i = 0; i < E; i++){
         cin >> A >> B >> C;
         if(C == 1){
-            cidades[A-1].push_back(B-1);
-            cidades[B-1].push_back(A-1);
+            ciranda[A-1].push_back(B-1);
+            ciranda[B-1].push_back(A-1);
         }
     }
 
@@ -40,7 +40,7 @@ void caminho(int i){
         return;
     visited[i] = true;
     count++;
-    for(vector<int>::iterator it = cidades[i].begin(); it!= cidades[i].end(); it++){
+    for(vector<int>::iterator it = ciranda[i].begin(); it!= ciranda[i].end(); it++){
         caminho(*it);
     }
 
