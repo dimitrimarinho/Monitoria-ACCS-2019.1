@@ -9,12 +9,6 @@ Os alunos matriculados na disciplina são divididos em 3 grupos. Dois grupos dã
 
 Responsável: Profº Dr. Rubisley de Paula Lemes
 
-### E-mail final de Rubisley: Atribuição das Notas
-
-Cada aluno que não foi do grupo de *casos de teste* tinha que enviar problemas de 3 assuntos, cada assunto desse vale 12,5% da nota na disciplina. O grupo de *casos de teste* ficaram com 4 problemas, portanto 12,5% para cada, além de terem feito os casos de teste para os outros problemas também.
-
-Foram 10 aulas, portanto cada aluno que não seja do grupo de *casos de teste* deveria ter ido em 5 aulas, portanto cada presença em aula vale 12,5% da nota. O pessoal do grupo de *casos de teste* foi para 4 aulas, portanto 12,5% da nota para cada aula, além de terem ajudado a dar as aulas também.
-
 ### Datas das aulas de monitoria
 
 
@@ -48,3 +42,9 @@ Obs.: Não abrange os assuntos de Programação Dinâmica e Grafos
 (link 1) https://drive.google.com/drive/folders/0BzZUxPOCd4GuMDhwdGRsdmpyX3M
 
 (link 2) https://drive.google.com/open?id=1vvAXntqWK0sUVYH8TqZz8EEHHQ1Ho4BW
+
+### E-mail final de Rubisley: Atribuição das Notas
+
+Cada aluno que não foi do grupo de *casos de teste* tinha que enviar problemas de 3 assuntos, cada assunto desse vale 12,5% da nota na disciplina. O grupo de *casos de teste* ficaram com 4 problemas, portanto 12,5% para cada, além de terem feito os casos de teste para os outros problemas também.
+
+Foram 10 aulas, portanto cada aluno que não seja do grupo de *casos de teste* deveria ter ido em 5 aulas, portanto cada presença em aula vale 12,5% da nota. O pessoal do grupo de *casos de teste* foi para 4 aulas, portanto 12,5% da nota para cada aula, além de terem ajudado a dar as aulas também.
